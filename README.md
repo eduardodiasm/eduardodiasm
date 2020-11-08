@@ -9,7 +9,7 @@
 <h2>Who I am</h2>
 
 <p>
-I am Eduardo Dias, a 17 years old software engineer,fascinated by innovation and technology.
+I am Eduardo Dias, a 17 years old software engineer, fascinated by innovation and technology.
 I transform complex business models into code. Over 2 years of experience building products to solve real problems of companies through hackathons. I really like to be part of an end to end product development, from the brainstorm/ideation to the code and fundraise.
 </p>
 
