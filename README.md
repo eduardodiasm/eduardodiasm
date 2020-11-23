@@ -33,7 +33,7 @@ I transform complex business models into code. Over 2 years of experience buildi
 <ul>
 
   <li>C++ | Javascript | Python</li>
-  <li>Postgres | MongoDB | Redis</li>
+  <li>Postgres | MySQL | MongoDB | Redis</li>
   <li>NodeJS | ReactJS | Jest | Cheerio</li>
 
 
