@@ -19,13 +19,12 @@ I transform complex business models into code. Over 2 years of experience buildi
 
 </ul>
 
-<h2 style="margin-top: 15px;"> Favorite technologies:</h2>
+<h2 style="margin-top: 15px;"> Favorite techs:</h2>
 
 <ul>
 
-  <li>C++ | Javascript | Python</li>
-  <li>Postgres | MySQL | MongoDB | Redis</li>
-  <li>NodeJS | ReactJS | Jest | Cheerio</li>
+  <li>Programming Languages: C++, Javascript, Go</li>
+  <li>Databases: Postgres, MySQL, MongoDB, Redis</li>
 
 
 </ul>
