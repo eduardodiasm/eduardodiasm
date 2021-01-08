@@ -14,7 +14,6 @@ I transform complex business models into code. Over 2 years of experience buildi
 
   <li>Clean Code practices</li>
   <li>Performance</li>
-  <li>Good Software Architecture</li>
 
 
 </ul>
